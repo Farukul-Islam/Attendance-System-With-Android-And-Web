@@ -1,0 +1,4 @@
+#Sat Dec 08 02:54:39 BDT 2018
+base.0=C\:\\Users\\faruk\\AndroidStudioProjects\\arct\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+renamed.0=classes.dex
+file.0=C\:\\Users\\faruk\\AndroidStudioProjects\\arct\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0\\classes.dex

@@ -1,0 +1,57 @@
+@import url(http://fonts.googleapis.com/css?family=Roboto:400,900);
+
+body{
+    font-family: 'Roboto', sans-serif;
+    padding-top: 75px;
+}
+nav{
+    box-shadow: 0 0 30px #888888;
+}
+.github-fork{
+    position: absolute;
+    top: 0;
+    right: 0;
+    z-index: 10000;
+    width: 180px;
+    height: auto;
+}
+#wrapper{
+    padding: 10px;
+    overflow: hidden;
+}
+
+.form-wrapper{
+    border: 1px solid #DDDDDD;
+    padding: 5px;
+    margin-bottom: 5px;
+    text-align: center;
+}
+
+.form-wrapper form{
+    margin-bottom: 0
+}
+
+.form-wrapper form button{
+    margin-top: 10px;
+}
+
+#message{
+	padding-top:20px;
+	font-weight:10px;
+}
+h1{
+	text-align:center;
+}
+#success, #danger{
+    text-align: center;
+    margin-top: 40px;
+    font-weight: bold;
+}
+
+#success{
+    color:green;
+}
+
+#danger{
+    color:red;
+}

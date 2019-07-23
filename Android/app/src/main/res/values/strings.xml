@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">WiFiAwareness</string>
+    <string name="ScanAndPrint">Scan and Print</string>
+    <string name="ScanAndSend">Scan and Send</string>
+    <string name="title_activity_login">Sign in</string>
+</resources>
